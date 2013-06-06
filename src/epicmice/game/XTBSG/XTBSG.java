@@ -27,6 +27,7 @@ public class XTBSG extends StateBasedGame {
 		game.setDisplayMode(WIDTH, HEIGHT, FULLSCREEN);
 		game.setShowFPS(true);
 		game.start();
+		
 	}
 
 }
